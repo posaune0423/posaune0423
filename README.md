@@ -5,4 +5,4 @@
 
 ### ⚙️ Development
 - [skyhack](https://sky-hack.herokuapp.com)
-- [Aoyama Gakuin Orchestra](https://aoyamaorshestra.com)
+- [Aoyama Gakuin Orchestra](https://aoyamaorchestra.com)
