@@ -3,7 +3,3 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=posaune0423&show_icons=true)
 
-### ⚙️ Development
-- [skyhack](https://sky-hack.herokuapp.com)
-- [Aoyama Gakuin Orchestra](https://aoyamaorchestra.com)
-- [Curabitur](https://next-firebase-chatapp-azure.vercel.app/)
