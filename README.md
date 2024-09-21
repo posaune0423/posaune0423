@@ -11,8 +11,10 @@
 
   
 📆 2024 - Present  🌏  [PixeLAW](https://github.com/pixelaw)  🔖  Contract & Frontend & Game Dev  
-📆 2023 -2024  💎  [Unikuwa](https://www.unikura.xyz/)  🔖  Lead Contract & Frontend Dev  
-📆 2021 - 2023  👀  [VWBL](https://vwbl-protocol.org/)  🔖   Contract & Frontend Dev
+
+📆 2023 -2024  💎  [Unikura](https://www.unikura.xyz/)  🔖  Lead Contract & Frontend Dev  
+
+📆 2021 - 2023  👀  [VWBL Protocol](https://vwbl-protocol.org/)  🔖   Contract & Frontend Dev
 
 
 </div>
