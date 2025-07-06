@@ -9,7 +9,7 @@
 [![GitHub Thaiane](https://img.shields.io/github/followers/posaune0423?label=follow&style=social)](https://github.com/posaune0423)  
 
 
-📆 2025 - Present  🧠  [DAIKO AI](https://x.com/daiko_ai)  🔖  co-founder
+📆 2025 - Present  🧠  [DAIKO AI](https://x.com/DaikoAI)  🔖  co-founder
 
 📆 2024 - Present  🌏  [PixeLAW](https://github.com/pixelaw)  🔖  Contract & Frontend & Game Dev  
 
