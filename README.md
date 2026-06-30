@@ -11,7 +11,7 @@
 
 📆 2025 - Present  🧠  [DAIKO AI](https://x.com/DaikoAI)  🔖  co-founder
 
-📆 2024 - Present  🌏  [PixeLAW](https://github.com/pixelaw)  🔖  Contract & Frontend & Game Dev  
+📆 2024 - 2025  🌏  [PixeLAW](https://github.com/pixelaw)  🔖  Contract & Frontend & Game Dev  
 
 📆 2023 -2024  💎  [Unikura](https://www.unikura.xyz/)  🔖  Lead Contract & Frontend Dev  
 
