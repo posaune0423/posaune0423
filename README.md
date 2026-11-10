@@ -9,6 +9,8 @@
 [![GitHub Thaiane](https://img.shields.io/github/followers/posaune0423?label=follow&style=social)](https://github.com/posaune0423)  
 
 
+📆 2026 - Present  🪙  [Luster Finance](https://luster.finance)  🔖  founder
+
 📆 2025 - Present  🧠  [DAIKO AI](https://x.com/DaikoAI)  🔖  co-founder
 
 📆 2024 - 2025  🌏  [PixeLAW](https://github.com/pixelaw)  🔖  Contract & Frontend & Game Dev  
